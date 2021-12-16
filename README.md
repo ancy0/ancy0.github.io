@@ -33,7 +33,7 @@
 
 ## 3. 테마 적용하기
 1. 테마 선택하기
-<img width="678" alt="7 테마선택" src="https://user-images.githubusercontent.com/84322890/146316550-33f8d23c-298d-4ab4-aba5-11e4cad57f62.png">
+<img width="611" alt="7 테마선택" src="https://user-images.githubusercontent.com/84322890/146332526-91feabde-1814-4547-91c4-93a12eb64992.png">
 
 2. 테마 적용하기
 <img width="612" alt="8 테마적용" src="https://user-images.githubusercontent.com/84322890/146316686-a797a2f4-dfd7-46f3-90fb-7e0207356e0e.png">
@@ -42,8 +42,11 @@
 1.  _config.yml 에서 정보 수정
 - 기존에 입력되어 있던 내용 대신 자신에게 맞는 정보를 입력
 - 수정 내용으로는 블로그의 title, email 주소 등이 있음
-<img width="847" alt="9 config" src="https://user-images.githubusercontent.com/84322890/146323933-35d35c0c-b51d-4ddc-acae-819bf8155e6e.png">
+<img width="634" alt="9 config" src="https://user-images.githubusercontent.com/84322890/146332390-eb1e6fd7-f4a3-4483-afd1-2aa2c559feb1.png">
 
 2. 블로그 project 추가
 - 템플릿의 프로젝트 삭제 후 새로 입력
 <img width="712" alt="10 pj" src="https://user-images.githubusercontent.com/84322890/146324136-189a57e7-8621-42d8-97c9-6fc5552cd9f5.png">
+
+3. 적용 모습
+<img width="586" alt="11 완성" src="https://user-images.githubusercontent.com/84322890/146361405-25daee07-9933-4f77-8380-1a3293877100.png">
