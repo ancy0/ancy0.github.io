@@ -2,7 +2,7 @@
 title: What is Markdown?
 layout: post
 post-image: ![What is markdown](https://user-images.githubusercontent.com/84322890/146371698-533a4b18-bff5-4804-93cb-8be314b66911.png)
-description: 
+description: Markdown is...
 tags:
 - markdown
 - informative
