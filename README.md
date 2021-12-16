@@ -1,5 +1,7 @@
 # Create a Blog (feat. Github Pages)
 
+[블로그 바로가기](https://ancy0.github.io/)
+
 ## 1. Github Page 시작하기
 1. Repository 생성
 - Github에 ancy0.github.io 이름의 Repository 생성
