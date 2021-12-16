@@ -14,6 +14,7 @@
 
 5. 이전에 작성했던 예시 문서가 나타나면 성공
 <img width="465" alt="0" src="https://user-images.githubusercontent.com/84322890/146318007-e2987657-f96a-44c8-a5a6-36021d7b96a0.png">
+
 ## 2. Jekyll 반영하기
 1. Jekyll 설치 확인
 <img width="576" alt="1 j 설치확인" src="https://user-images.githubusercontent.com/84322890/146315774-c7045fa6-0202-405f-91f5-63d02e0a7d20.png">
@@ -36,3 +37,13 @@
 
 2. 테마 적용하기
 <img width="612" alt="8 테마적용" src="https://user-images.githubusercontent.com/84322890/146316686-a797a2f4-dfd7-46f3-90fb-7e0207356e0e.png">
+
+## 4. 블로그 정보 수정 및 내용 추가
+1.  _config.yml 에서 정보 수정
+- 기존에 입력되어 있던 내용 대신 자신에게 맞는 정보를 입력
+- 수정 내용으로는 블로그의 title, email 주소 등이 있음
+<img width="847" alt="9 config" src="https://user-images.githubusercontent.com/84322890/146323933-35d35c0c-b51d-4ddc-acae-819bf8155e6e.png">
+
+2. 블로그 project 추가
+- 템플릿의 프로젝트 삭제 후 새로 입력
+<img width="712" alt="10 pj" src="https://user-images.githubusercontent.com/84322890/146324136-189a57e7-8621-42d8-97c9-6fc5552cd9f5.png">
